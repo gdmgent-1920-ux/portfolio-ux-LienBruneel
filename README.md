@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name:Lien Bruneel
 
-## Group:
+## Group: 1avda
 
 ## Getting Started
 
